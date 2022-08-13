@@ -29,6 +29,6 @@ I'm currently working as a software engineer in Seoul.
 - 🧸 This is my [Blog]() 
 - 💭 Give me Question [Click]() 
 
-[![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=syss220211&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/syss220211/syss220211)
+[![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=syss220211&line_height=24&hide_rank=true&&layout=compact&theme=material-palenight)](https://github.com/syss220211/syss220211)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syss220211&layout=compact&langs_count=8&theme=white)](https://github.com/syss220211?tab=repositories&q=&type=&language=java&sort=)
