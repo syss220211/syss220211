@@ -46,8 +46,5 @@ I'm currently working as a software engineer in Seoul.
 
 [![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=syss220211&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/syss220211/syss220211)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syss220211&layout=compact&langs_count=8&theme=white)](https://github.com/syss220211?tab=repositories&q=&type=&language=java&sort=)
- <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=white)](https://github.com/jogilsang/resume) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=white)](https://github.com/jogilsang/manual-job)-->
-
-<!-- IDE의 활동이 기록 -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jogilsang)](https://wakatime.com/@jogilsang)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=white)](https://github.com/jogilsang/resume)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=white)](https://github.com/jogilsang/manual-job)
