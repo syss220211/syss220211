@@ -15,20 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFD159&text=🐰🐈‍⬛🐾🫧&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFCAD5&text=🐰🐾🫧&fontAlign=70)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjogilsang&count_bg=%233DDB86&title_bg=%23073642&icon=android.svg&icon_color=%233DDB86&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ### Welcome My Space!
 
-Hi there, I'm [Gilsang Jo](https://www.linkedin.com/in/gilsang), a Repulic of korea   
+Hi there, I'm Park seo Yeon, a Repulic of korea   
 I'm currently working as a software engineer in Seoul.
 
-<!-- - 📱  interesting on [Android](https://github.com/jogilsang/manual-android/tree/master/0.Android) -->
-- 🌱 Interesting on [Devops](https://github.com/jogilsang/manual-devops)  
-- 🐳 My MBTI is ENFP (100%)
-- 🤙 This is my [Blog](https://blog.naver.com/jogilsang) 
-- 💬 Give me Question [Click](https://github.com/jogilsang/jogilsang/issues) 
+<!-- - 🖥  interesting on [iOS](https://github.com/syss220211/SYStudy) -->
+- 🌱 My MBTI is ISTP (100%)
+- 🧸 This is my [Blog]() 
+- 💭 Give me Question [Click]() 
 
 <!-- if you want, SNS icon
 **SNS:**  
@@ -45,9 +44,9 @@ I'm currently working as a software engineer in Seoul.
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jogilsang&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/jogilsang/jogilsang)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&layout=compact&langs_count=8&theme=white)](https://github.com/jogilsang?tab=repositories&q=&type=&language=java&sort=)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=white)](https://github.com/jogilsang/resume) -->
+[![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=syss220211&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/syss220211/syss220211)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syss220211&layout=compact&langs_count=8&theme=white)](https://github.com/syss220211?tab=repositories&q=&type=&language=java&sort=)
+ <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=resume&show_owner=true&theme=white)](https://github.com/jogilsang/resume) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jogilsang&repo=manual-job&show_owner=true&theme=white)](https://github.com/jogilsang/manual-job)-->
 
 <!-- IDE의 활동이 기록 -->
