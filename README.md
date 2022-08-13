@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🫶🏻
 
 <!--
 **syss220211/syss220211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFCAD5&text=🐰🐾🫧&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFCAD5&text=🐰🫶🏻🫧&fontAlign=70)
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjogilsang&count_bg=%233DDB86&title_bg=%23073642&icon=android.svg&icon_color=%233DDB86&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
