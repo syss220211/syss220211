@@ -2,7 +2,7 @@
 
 ### Welcome My Space!
 Hi there, I'm Park seo Yeon, a Repulic of korea   
-I'm currently working as a software engineer in Seou
+I'm currently working as a software engineer in Seoul
 
 ## Features
 - 🖥  interesting on [iOS](https://github.com/syss220211/SYStudy)
