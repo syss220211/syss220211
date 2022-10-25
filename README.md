@@ -1,4 +1,4 @@
-### Hi there 🫶🏻
+### Hi there 👋
 
 <!--
 **syss220211/syss220211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +28,7 @@ I'm currently working as a software engineer in Seoul.
 - 🌱 My MBTI is ISTP (100%)
 - 🧸 This is my [Blog]() 
 - 💭 Give me Question [Click]() 
+- 🤔 I’m currently learning SWIFT, PYTHON
 
 [![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=syss220211&line_height=24&hide_rank=true&&layout=compact&&show_icons=true&5&border_radius=10&icon_color=FF5675&text_color=fffff&title_color=FF5675&border_color=FFCAD5)](https://github.com/syss220211/syss220211)
 
