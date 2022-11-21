@@ -12,7 +12,7 @@ I'm currently working as a software engineer in Seoul
 # 
 <!--[![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=syss220211&line_height=24&hide_rank=true&&layout=compact&&show_icons=true&5&border_radius=10&icon_color=556B2F&text_color=000000&title_color=556B2F&border_color=556B2F)](https://github.com/syss220211/syss220211) -->
 
-[![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=뇬ㄴ220211)](https://github.com/syss220211/github-readme-stats)
+[![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=syss220211)](https://github.com/syss220211/github-readme-stats)
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syss220211&layout=compact&langs_count=8&title_color=556B2F&border_radius=10&border_color=556B2F)](https://github.com/syss220211?tab=repositories&q=&type=&language=java&sort=)-->
