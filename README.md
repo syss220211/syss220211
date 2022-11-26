@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Welcome My Space!
-Hi there, I'm Park seo Yeon, a Repulic of korea
+Hi there, I'm Park seo Yeon, a Repulic of korea.
 I'm currently working as a software engineer in Seoul
 
 ## Features
