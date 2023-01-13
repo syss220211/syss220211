@@ -1,17 +1,14 @@
 ## Hi there 👋
 
 ### Welcome My Space!
-Hi there, I'm Park seo Yeon, a Repulic of korea.  
-I'm currently working as a software engineer in Seoul.  
+Hi there, I'm Park seo Yeon, a Repulic of korea.
+I'm currently working as a software engineer in Seoul
 
 ## Features
 - 🖥  interesting on [iOS](https://github.com/syss220211/SYStudy)
 - 🌱 My MBTI is ESTP 
 - 🧸 This is my [Blog](https://sy-catbutler.tistory.com/)
 - 💭 E-mail : syss220211@gmail.com   
-
-
-<--![Seo Yoen's GitHub stats](https://github-readme-stats.vercel.app/api?username=syss220211&show_icons=true&bg_color=00000000)-->
 
 
 [^1]: [![Seo Yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=syss220211&line_height=24&hide_rank=true&&layout=compact&&show_icons=true&5&border_radius=10&icon_color=556B2F&text_color=000000&title_color=556B2F&border_color=556B2F)](https://github.com/syss220211/syss220211) 
