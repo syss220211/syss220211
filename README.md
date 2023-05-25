@@ -6,7 +6,7 @@ I'm currently working as a software engineer in Seoul
 
 ## Features
 - 🖥  interesting on [iOS](https://github.com/syss220211/SYStudy)
-- 🌱 My MBTI is ESTP 
+- 🌱 My MBTI is ISTP(ESTP) 
 - 🧸 This is my [Blog](https://sy-catbutler.tistory.com/)
 - 💭 E-mail : syss220211@gmail.com   
 - 📝 This is my [Notion](https://ballistic-dollar-2f4.notion.site/LINDA-0584d10c03e542298fa8c24d4619a0b0)
