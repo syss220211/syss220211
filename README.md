@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 ### Welcome My Space!
+기록하는 과정으로 꾸준히 성장하는 개발자 박서연입니다.  
 Hi there, I'm Park seo Yeon, a Repulic of korea.  
-I'm currently working as a software engineer in Seoul
+
 
 ## Features
 - 🖥  interesting on [iOS](https://github.com/syss220211/SYStudy)
