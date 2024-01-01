@@ -9,7 +9,7 @@ Hi there, I'm Park seo Yeon, a Repulic of korea.
 - 🖥  interesting on [iOS](https://github.com/syss220211/SYStudy)
 - 🧸 This is my [Blog](https://sy-catbutler.tistory.com/)
 - 💭 E-mail : syss220211@gmail.com   
-- 📝 This is my [Notion](https://www.notion.so/Linda-7b6da65588f04fdcba2a6a6ec3aeb78b?pvs=4)
+- 📝 This is my [Notion](https://url.kr/qgnjtb)
 - 📘 LinkedIn : [박서연](https://www.linkedin.com/in/0linda1)
 - 🌱 My MBTI is ISTP(ESTP)
   
