@@ -5,14 +5,18 @@
     Developer who write easy-to-read code and have meticulous, good communication skills.
 - **사용자 중심의 UI,UX를 사고하며, 유저와의 소통으로의 성장을 추구합니다.**
     Seeks to grow into communication with users.
-- **코드리뷰 문화를 통한 의견 공유를 좋아합니다.**
+- **코드리뷰 문화를 통한 의견 공유를 좋아합니다.**
     enjoy performing and receiving code reviews.
 - **꾸준한 블로깅을 통해 성장하고 있습니다.**
     constantly write posts on [Blog]([Blog](https://sy-catbutler.tistory.com/))
 
+<br>
+
 ### Side Project
 - 📱[제노](https://apps.apple.com/kr/app/%EC%A0%9C%EB%85%B8/id6471948555) - SNS app that communicates based on anonymity ([Github](https://github.com/APP-iOS2/ZENO-iOS))
 - 🚇[뛰어말어](https://apps.apple.com/kr/app/%EB%9B%B0%EC%96%B4%EB%A7%90%EC%96%B4/id6474415798) - App for check the real-time location information of the Seoul subway ([Github](https://github.com/MetroMates/metroCity))
+
+<br>
 
 ### Education
 - **TECHIT (APP-iOS2)**
@@ -23,6 +27,8 @@
 	- Computer Science & Industrial Management
 	- Have about a year of experience in data analysis.
 
+
+<br>
 
 ### Office & Connect
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)[ ](https://url.kr/qgnjtb) ![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[ ](https://www.linkedin.com/in/0linda1) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
