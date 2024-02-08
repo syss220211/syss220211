@@ -8,7 +8,7 @@
 - **코드리뷰 문화를 통한 의견 공유를 좋아합니다.**  
     Enjoy performing and receiving code reviews.
 - **꾸준한 블로깅을 통해 성장하고 있습니다.**  
-    Constantly write posts on [Blog]([Blog](https://sy-catbutler.tistory.com/))
+    Constantly write posts on [Blog](https://sy-catbutler.tistory.com/)
 
 <br>
 
