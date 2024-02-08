@@ -6,9 +6,9 @@
 - **사용자 중심의 UI,UX를 사고하며, 유저와의 소통으로의 성장을 추구합니다.**  
     Seeks to grow into communication with users.
 - **코드리뷰 문화를 통한 의견 공유를 좋아합니다.**  
-    enjoy performing and receiving code reviews.
+    Enjoy performing and receiving code reviews.
 - **꾸준한 블로깅을 통해 성장하고 있습니다.**  
-    constantly write posts on [Blog]([Blog](https://sy-catbutler.tistory.com/))
+    Constantly write posts on [Blog]([Blog](https://sy-catbutler.tistory.com/))
 
 <br>
 
