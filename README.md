@@ -9,7 +9,8 @@
     Enjoy performing and receiving code reviews.
 - **꾸준한 블로깅과 노션을 통해 성장하고 있습니다.**  
     Constantly write posts on [Blog](https://sy-catbutler.tistory.com/) & [Notion](https://url.kr/qgnjtb)
-- **Connect** : [LinkedIn](https://www.linkedin.com/in/0linda1) & syss220211@gmail.com
+- **Connect**
+    [LinkedIn](https://www.linkedin.com/in/0linda1) & syss220211@gmail.com
 
 <br>
 
