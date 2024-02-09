@@ -15,7 +15,7 @@
 
 ### Side Project
 - 📱 [제노](https://apps.apple.com/kr/app/%EC%A0%9C%EB%85%B8/id6471948555) - SNS app that communicates based on anonymity ([Github](https://github.com/APP-iOS2/ZENO-iOS) & [Notion](https://ballistic-dollar-2f4.notion.site/Zeno-06025a49a8114b4ea94bb54786bf4324))
-- 🚇 [뛰어말어](https://apps.apple.com/kr/app/%EB%9B%B0%EC%96%B4%EB%A7%90%EC%96%B4/id6474415798) - App for check the real-time location information of the Seoul subway ([Github](https://github.com/MetroMates/metroCity) & [Notion])(https://ballistic-dollar-2f4.notion.site/b668c532b0af43dd8c25c954484d67f2))
+- 🚇 [뛰어말어](https://apps.apple.com/kr/app/%EB%9B%B0%EC%96%B4%EB%A7%90%EC%96%B4/id6474415798) - App for check the real-time location information of the Seoul subway ([Github](https://github.com/MetroMates/metroCity) & [Notion](https://ballistic-dollar-2f4.notion.site/b668c532b0af43dd8c25c954484d67f2))
 
 <br>
 
