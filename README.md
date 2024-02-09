@@ -19,7 +19,7 @@
 
 <br>
 
-### Education
+### Education & Award
 - **TECHIT (APP-iOS2)**
 	- 2023.05.22 ~ 2023.10.25 (5 months)
 	- studied Swift, UIKit, SwiftUI, HIG, git/github, Figma
@@ -27,6 +27,7 @@
 - **🎓 Daejin Univ. (’23)**
 	- Computer Science & Industrial Management
 	- Have about a year of experience in data analysis.
+ - **🏆 2021 항만 물류 인공지능 학습데이터 해커톤 (최우수상)**
 
 
 <br>
