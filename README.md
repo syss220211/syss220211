@@ -24,7 +24,7 @@
 	- 2023.05.22 ~ 2023.10.25 (5 months)
 	- studied Swift, UIKit, SwiftUI, HIG, git/github, Figma
 	- Awarded the grand prize through [“제노”](https://apps.apple.com/kr/app/%EC%A0%9C%EB%85%B8/id6471948555)
-- **🎓 Daejin Univ. (’19)**
+- **🎓 Daejin Univ. (’23)**
 	- Computer Science & Industrial Management
 	- Have about a year of experience in data analysis.
 
