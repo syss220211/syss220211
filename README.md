@@ -5,9 +5,9 @@
     Developer who write easy-to-read code and have meticulous, good communication skills.
 - **사용자 중심의 UI,UX를 사고하며, 유저와의 소통으로 성장을 추구합니다.**  
     Seeks to grow into communication with users.
-- **코드리뷰를 통한 의견 공유를 좋아합니다.**   
+- **코드리뷰를 통한 피드백과 공유를 좋아합니다.**   
     Enjoy performing and receiving code reviews.
-    [reviews](https://github.com/Good-MoGong/SYM/pulls?q=is%3Apr+is%3Aclosed), [case](https://github.com/Good-MoGong/SYM/pull/119)
+    [reviews](https://github.com/Good-MoGong/SYM/pulls?q=is%3Apr+is%3Aclosed), [case](https://github.com/Good-MoGong/SYM/pull/131)
 - **꾸준한 블로깅과 노션을 통해 성장하고 있습니다.**  
     Constantly write posts on [Blog](https://sy-catbutler.tistory.com/) & [Notion](https://ballistic-dollar-2f4.notion.site/iOS-3525b0f1ae9d4e738a71d418d2ed4b4f)
 - **Connect** - [LinkedIn](https://www.linkedin.com/in/0linda1) & syss220211@gmail.com
