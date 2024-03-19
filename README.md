@@ -11,6 +11,7 @@
 - **꾸준한 블로깅과 노션을 통해 성장하고 있습니다.**  
     Constantly write posts on [Blog](https://sy-catbutler.tistory.com/) & [Notion](https://ballistic-dollar-2f4.notion.site/iOS-3525b0f1ae9d4e738a71d418d2ed4b4f)
 - **Connect** - [LinkedIn](https://www.linkedin.com/in/0linda1) & syss220211@gmail.com
+- **[Profile](https://url.kr/hp6zym)e**
 
 <br>
 
