@@ -10,7 +10,8 @@
     [reviews](https://github.com/Good-MoGong/SYM/pulls?q=is%3Apr+is%3Aclosed), [case](https://github.com/Good-MoGong/SYM/pull/131)
 - **꾸준한 블로깅과 노션을 통해 성장하고 있습니다.**  
     Constantly write posts on [Blog](https://sy-catbutler.tistory.com/) & [Notion](https://ballistic-dollar-2f4.notion.site/iOS-3525b0f1ae9d4e738a71d418d2ed4b4f)
-- **Connect** - [LinkedIn](https://www.linkedin.com/in/0linda1) & syss220211@gmail.com & **[Portfolio](https://url.kr/hp6zym)**
+- **Connect** - [Kakao](https://open.kakao.com/o/seP3uehg) [LinkedIn](https://www.linkedin.com/in/0linda1)
+- **Connect** - syss220211@gmail.com & **[Portfolio](https://url.kr/hp6zym)**
 
 <br>
 
